@@ -1,4 +1,4 @@
-# Tarea 4 – Scene Classification
+# Scene Classification with Images
 
 This repository's goal is to perform **scene classification** using pre‑computed image features and several supervised learning models (SVM and XGBoost).
 
